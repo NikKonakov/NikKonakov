@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... who knows?
 - 📫 How to reach me: Discord - niksol481. Please write your question first!
 - 😄 Pronouns: he/him, but who cares?
-- ⚡ Fun fact: Sun is White!
+- ⚡ Fun fact: Sun is White(not Walter!
 
 <!---
 NikKonakov/NikKonakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
