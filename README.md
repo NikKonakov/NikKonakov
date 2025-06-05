@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Nikita Konakov
-- 👀 I’m interested in PC Builds, Coding my own stuff, Watching Movies and TV-Series or Anime, Computer Games.
-- 🌱 I’m currently studying at SAIT, Software Development Diploma
-- 💞️ I’m looking to collaborate on some Minecraft Mods.
-- 📫 How to reach me: Discord - niksol481. Please write your question first!
-- 😄 Pronouns: he/him, but who cares?
+- 👀 I’m interested in PC Builds, Coding, Watching Movies and TV-Series or Anime, Computer Games.
+- 🌱 I’m currently studying at SAIT, Software Development 
+- 📫 How to reach me: nik.konakov@gmail.com
 - ⚡ Fun fact: Sun is White(not Walter!)
 
 <!---
