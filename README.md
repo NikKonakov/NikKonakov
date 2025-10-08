@@ -1,10 +1,37 @@
-- 👋 Hi, I’m Nikita Konakov
-- 👀 I’m interested in PC Builds, Coding, Watching Movies and TV-Series or Anime, Computer Games.
-- 🌱 I’m currently studying at SAIT, Software Development 
-- 📫 How to reach me: nik.konakov@gmail.com
-- ⚡ Fun fact: Sun is White(not Walter!)
+# 👋 Hi, I’m Nikita (Nik) Konakov
 
-<!---
-NikKonakov/NikKonakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**He/Him**  
+Student at Southern Alberta Institute of Technology (SAIT)  
+Calgary, Alberta, Canada
+
+## 🚀 About Me
+
+I'm a passionate Software Development student at SAIT with hands-on experience in IT consulting, Docker, and educational technology solutions. I enjoy helping organizations find effective technical solutions and have a special interest in learning management systems and database technologies.
+
+## 💼 Experience
+
+**Software Consultant**  
+_Flying Minds - Educational Centre_ (May 2024 – Oct 2024, Calgary, AB, Hybrid)  
+- Consulted clients on solution strategies and implementation.
+- Researched and recommended Learning Management Systems.
+- Applied necessary system customizations.
+- Managed deployments using Docker on client hardware.
+
+## 🎓 Education
+
+**Southern Alberta Institute of Technology (SAIT)**  
+Information Technology (May 2023 – Dec 2026)  
+- Software Development
+- Oracle Database
+- More IT skills
+
+## 🐾 Volunteering
+
+**Dog Volunteer (Yellow Level)**  
+_Alberta Animal Rescue Crew Society_ (Jul 2023 – Present)  
+- Animal welfare, dog care, walks, and puppy care.
+
+**Library Assistant**  
+_Language & Culture Centre for Children "Kolibri"_ (Mar 2025 – Present)  
+- Helped organize and manage online Library Management Systems.  
+- [Kolibri Website](#)
