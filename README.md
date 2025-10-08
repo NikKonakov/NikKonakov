@@ -34,4 +34,3 @@ _Alberta Animal Rescue Crew Society_ (Jul 2023 – Present)
 **Library Assistant**  
 _Language & Culture Centre for Children "Kolibri"_ (Mar 2025 – Present)  
 - Helped organize and manage online Library Management Systems.  
-- [Kolibri Website](#)
