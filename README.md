@@ -40,7 +40,7 @@ Software Developer with experience building mobile and web applications using Re
 ## 💼 Professional Experience
 
 ### 🖼️ Frontend Developer  
-**Kolibri School, Calgary, AB**  
+**Language & Culture Centre for Children "Kolibri", Calgary, AB**  
 📅 Oct 2025
 
 - 🎨 Designed complete UI/UX for the school landing page in Figma, creating modern, responsive design aligned with brand identity
@@ -49,7 +49,7 @@ Software Developer with experience building mobile and web applications using Re
 - 🚀 Deployed the application to Vercel with continuous integration, ensuring reliable hosting and automated deployments
 
 ### 📚 Library Systems Implementation Consultant  
-**Kolibri School, Calgary, AB**  
+**Language & Culture Centre for Children "Kolibri", Calgary, AB**  
 📅 Jun 2025 - Jul 2025
 
 - 🕵️‍♂️ Researched and evaluated SaaS library management solutions, recommending an optimal system aligned with school operational requirements and budget
@@ -63,7 +63,7 @@ Software Developer with experience building mobile and web applications using Re
 
 - ⚙️ Evaluated and recommended learning management system solutions, successfully identifying Moodle as the optimal platform meeting client requirements and budget constraints
 - 🐳 Configured Docker containerization for Moodle deployment, integrating automated backup services to ensure data security and system reliability
-- 🚦 Deployed and maintained a production LMS environment on client infrastructure, troubleshooting runtime
+- 🚦 Deployed and maintained a production LMS environment on client infrastructure, troubleshooting runtime issues 
 - 📄 Provided technical documentation and training to enable client self-management of the system
 
 ---
