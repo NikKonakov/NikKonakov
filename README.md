@@ -41,7 +41,7 @@ Software Developer with experience building mobile and web applications using Re
 
 ### 🖼️ Frontend Developer  
 **Language & Culture Centre for Children "Kolibri", Calgary, AB**  
-📅 Oct 2025
+📅 Oct 2025 - Nov 2025
 
 - 🎨 Designed the complete UI/UX for the school landing page in Figma, creating a modern, responsive design aligned with the brand identity
 - 🌐 Developed and deployed a production-ready website using Next.js, implementing responsive layouts and optimal performance
